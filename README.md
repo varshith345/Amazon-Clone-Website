@@ -35,7 +35,7 @@ To view and interact with the Amazon Clone project locally:
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/varshith345/Amazon-Clone-Website
+    https://github.com/varshith345/Amazon-Clone-Website
     ```
 2. Open `index.html` in your preferred web browser.
 
