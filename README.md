@@ -41,5 +41,5 @@ To view and interact with the Amazon Clone project locally:
 
 ## Contributing
 
-We welcome contributions to enhance this project! Please feel free to submit a pull request or open an issue if you have any suggestions or bug reports.
+Welcoming contributions to enhance this project! Please feel free to submit a pull request or open an issue if you have any suggestions or bug reports.
 
